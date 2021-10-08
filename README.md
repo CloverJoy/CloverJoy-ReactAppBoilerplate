@@ -1,2 +1,2 @@
 # CloverJoy-ReactAppBoilerplate
-My react boilerplate with yarn pkg manager
+My react boilerplate with yarn pkg manager.
